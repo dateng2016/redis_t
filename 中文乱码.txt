@@ -1,0 +1,1 @@
+redis-cli -a 111111 --raw
